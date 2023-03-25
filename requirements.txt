@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-dotenv
+loguru
+pytest
+pytest-cov
+black
+isort
+flake8
+mypy
